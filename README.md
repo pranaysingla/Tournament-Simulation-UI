@@ -1,2 +1,2 @@
 # Tournament-Simulation-UI
-UI to create tournament based on various formats like group, knockout and ranking structure. Python libraries in use: pandas, tkintr
+UI to create tournament draw with choice of various formats such as group & knockout. Python libraries in use: pandas, tkintr
